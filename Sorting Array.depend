@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1359505278 source:c:\users\lara mae\downloads\programming\sorting array\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
+1359505278 source:c:\users\lara mae\downloads\programming\quicksort\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+
